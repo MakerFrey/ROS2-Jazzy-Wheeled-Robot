@@ -147,6 +147,7 @@ jazzy_robot/
 This project is licensed under the [Apache License 2.0](LICENSE).
 
 
-## Author
+## Contributors
 
-Nicolas Frey
+- [Nicolas Frey](https://github.com/MakerFrey)
+- [Jack Crawford](https://github.com/jcrawford14200)
